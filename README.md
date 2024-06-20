@@ -1,3 +1,5 @@
+![image](https://github.com/baskarvj/Prometheus_grafana_kubernetes/assets/103120325/e0678aec-c8b8-442b-bdc5-10e8f5c76fd6)
+
 ### Helm Installation ######
 ~~~
 curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
